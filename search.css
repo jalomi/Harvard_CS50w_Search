@@ -16,8 +16,9 @@
     align-items: center;
 
     position: fixed;
+    z-index: -1;
     inset: 0px;
-    /* margin: auto; */
+    margin: auto;
 }
 
 form {
